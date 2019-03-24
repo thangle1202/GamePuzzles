@@ -10,6 +10,7 @@ package Problem2;
  * @author lethang
  */
 public class ExecuteProgram {
+    
     public static void main(String[] args) {
         FindTheRoad findRoad= new FindTheRoad();
         findRoad.travelChessBoard();
